@@ -8,7 +8,7 @@ categories: programming chellenge, game development, inovation chellenge and cyb
 This is a demo build.
 Repository includes the game's trailer presented at the Coding Chellenge, 
 the game document briefly describing the game,
-and the game zipped files themselves.
+and the game files (zipped) themselves.
 No installation required.
 
 If you encounter any bugs or glitches please reach out to me or my friend, thank you.
